@@ -1,0 +1,39 @@
+#nav-container ul {
+  background-color: #b2beb5;
+}
+
+#nav-container li {
+  display: block;
+  width: 120px;
+  float: left;
+  /* margin-left: 2px; */
+  /* border: 1px solid #000; */
+  text-align: center;
+  padding: 10;
+  /* background-color: aquamarine; */
+  background-color: #b2beb5;
+}
+#nav-container li a {
+  color: "blue";
+}
+
+#nav-container li a:hover {
+  text-decoration: underline;
+  font-size: 45;
+  width: 60;
+  background-color: green;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+/* li a {
+  margin: 5;
+  padding: 50;
+} */
+
+/* ul#nav-container li a {
+  padding: 50;
+} */

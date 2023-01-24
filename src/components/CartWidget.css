@@ -1,0 +1,30 @@
+.cart-widget {
+  /* background-color: blueviolet; */
+  /* display: inline-block; */
+  display: flex;
+  float: left;
+  /* background-color: white; */
+  padding: 20;
+  /* margin-left: 10; */
+  /* float: right; */
+  /* padding: 5; */
+}
+.cart {
+  margin-right: 5;
+  cursor: pointer;
+}
+
+.cart :hover {
+  transform: scale(1.2);
+}
+.qty {
+  color: red;
+  margin-left: 10;
+  font-size: x-large;
+  font-weight: 900;
+  float: left;
+}
+
+/* div {
+  display: inline-block;
+} */
