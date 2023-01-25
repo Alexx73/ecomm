@@ -1,14 +1,14 @@
 {
-  "main.css": "/github.com.io/ecomm/static/css/main.8b21be64.chunk.css",
-  "main.js": "/github.com.io/ecomm/static/js/main.44da7fcc.chunk.js",
-  "main.js.map": "/github.com.io/ecomm/static/js/main.44da7fcc.chunk.js.map",
-  "static/js/1.9c38fab2.chunk.js": "/github.com.io/ecomm/static/js/1.9c38fab2.chunk.js",
-  "static/js/1.9c38fab2.chunk.js.map": "/github.com.io/ecomm/static/js/1.9c38fab2.chunk.js.map",
-  "runtime~main.js": "/github.com.io/ecomm/static/js/runtime~main.66bdeace.js",
-  "runtime~main.js.map": "/github.com.io/ecomm/static/js/runtime~main.66bdeace.js.map",
-  "static/media/guitar-logo.png": "/github.com.io/ecomm/static/media/guitar-logo.b81b8502.png",
-  "static/css/main.8b21be64.chunk.css.map": "/github.com.io/ecomm/static/css/main.8b21be64.chunk.css.map",
-  "index.html": "/github.com.io/ecomm/index.html",
-  "precache-manifest.2085560ff6bb3844a4896bc8c1e50542.js": "/github.com.io/ecomm/precache-manifest.2085560ff6bb3844a4896bc8c1e50542.js",
-  "service-worker.js": "/github.com.io/ecomm/service-worker.js"
+  "main.css": "/github.io/ecomm/static/css/main.8b21be64.chunk.css",
+  "main.js": "/github.io/ecomm/static/js/main.44da7fcc.chunk.js",
+  "main.js.map": "/github.io/ecomm/static/js/main.44da7fcc.chunk.js.map",
+  "static/js/1.9c38fab2.chunk.js": "/github.io/ecomm/static/js/1.9c38fab2.chunk.js",
+  "static/js/1.9c38fab2.chunk.js.map": "/github.io/ecomm/static/js/1.9c38fab2.chunk.js.map",
+  "runtime~main.js": "/github.io/ecomm/static/js/runtime~main.36e23e51.js",
+  "runtime~main.js.map": "/github.io/ecomm/static/js/runtime~main.36e23e51.js.map",
+  "static/media/guitar-logo.png": "/github.io/ecomm/static/media/guitar-logo.b81b8502.png",
+  "static/css/main.8b21be64.chunk.css.map": "/github.io/ecomm/static/css/main.8b21be64.chunk.css.map",
+  "index.html": "/github.io/ecomm/index.html",
+  "precache-manifest.3a1b7dc2eb40a43227aee2233503356c.js": "/github.io/ecomm/precache-manifest.3a1b7dc2eb40a43227aee2233503356c.js",
+  "service-worker.js": "/github.io/ecomm/service-worker.js"
 }
