@@ -5,5 +5,11 @@ min
 
 125
 
+----------------------------------------------
+
+# 👇️ for Windows CMD (Command Prompt)
+
+set NODE_OPTIONS=--openssl-legacy-provider
+
 
 
