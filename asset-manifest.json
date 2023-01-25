@@ -1,14 +1,14 @@
 {
-  "main.css": "/github.io/ecomm/static/css/main.8b21be64.chunk.css",
-  "main.js": "/github.io/ecomm/static/js/main.44da7fcc.chunk.js",
-  "main.js.map": "/github.io/ecomm/static/js/main.44da7fcc.chunk.js.map",
-  "static/js/1.9c38fab2.chunk.js": "/github.io/ecomm/static/js/1.9c38fab2.chunk.js",
-  "static/js/1.9c38fab2.chunk.js.map": "/github.io/ecomm/static/js/1.9c38fab2.chunk.js.map",
-  "runtime~main.js": "/github.io/ecomm/static/js/runtime~main.36e23e51.js",
-  "runtime~main.js.map": "/github.io/ecomm/static/js/runtime~main.36e23e51.js.map",
-  "static/media/guitar-logo.png": "/github.io/ecomm/static/media/guitar-logo.b81b8502.png",
-  "static/css/main.8b21be64.chunk.css.map": "/github.io/ecomm/static/css/main.8b21be64.chunk.css.map",
-  "index.html": "/github.io/ecomm/index.html",
-  "precache-manifest.3a1b7dc2eb40a43227aee2233503356c.js": "/github.io/ecomm/precache-manifest.3a1b7dc2eb40a43227aee2233503356c.js",
-  "service-worker.js": "/github.io/ecomm/service-worker.js"
+  "main.css": "/ecomm/static/css/main.8b21be64.chunk.css",
+  "main.js": "/ecomm/static/js/main.44da7fcc.chunk.js",
+  "main.js.map": "/ecomm/static/js/main.44da7fcc.chunk.js.map",
+  "static/js/1.9c38fab2.chunk.js": "/ecomm/static/js/1.9c38fab2.chunk.js",
+  "static/js/1.9c38fab2.chunk.js.map": "/ecomm/static/js/1.9c38fab2.chunk.js.map",
+  "runtime~main.js": "/ecomm/static/js/runtime~main.d3b3b9f4.js",
+  "runtime~main.js.map": "/ecomm/static/js/runtime~main.d3b3b9f4.js.map",
+  "static/media/guitar-logo.png": "/ecomm/static/media/guitar-logo.b81b8502.png",
+  "static/css/main.8b21be64.chunk.css.map": "/ecomm/static/css/main.8b21be64.chunk.css.map",
+  "index.html": "/ecomm/index.html",
+  "precache-manifest.96349f8d40dd20066c92b0249d4cea31.js": "/ecomm/precache-manifest.96349f8d40dd20066c92b0249d4cea31.js",
+  "service-worker.js": "/ecomm/service-worker.js"
 }
