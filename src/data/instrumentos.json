@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/bass-spector-euro-5.jpg?alt=media&token=10bbadfd-8c78-4ad0-8e93-ca0e36ca4ce2",
+    "release_date": "2021-03-03",
+    "nombre": "Bajo Spector Euro 5 ",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Bajo eléctrico",
+    "precio": "$ 225.000 "
+  },
+  {
+    "id": 2,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/bass_fender-american.jpg?alt=media&token=ee99ca11-54f2-4fa7-bce0-f8e30bfc4609",
+    "nombre": "Bajo electrico Fender",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Gris",
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Bajo eléctrico",
+    "precio": "$ 202.000 "
+  },
+  {
+    "id": 3,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/bass_g-l-t.jpg?alt=media&token=9049dbdd-d7ac-4476-a95f-319eb4eff251",
+    "release_date": "2021-03-03",
+    "nombre": "Bajo electrico G & L",
+    "descripcion": "Material: Arce  Tipo: Cuerpo semi solido · Color: Negro",
+
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Bajo eléctrico",
+    "precio": "$ 212.000 "
+  },
+  {
+    "id": 4,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/guit-fender-telecaster%20480.jpg?alt=media&token=5cbc510b-1321-47d7-9c06-4659e64ad192",
+    "release_date": "2021-03-03",
+    "nombre": "Fender Telecaster",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Bajo eléctrico",
+    "precio": "$ 252.000 "
+  },
+  {
+    "id": 5,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/guit_Ibanez%20JEM777L.jpg?alt=media&token=835ba0b6-c403-421b-93d5-2d415e4c270b",
+    "release_date": "2021-03-03",
+    "nombre": "Ibanez Jem 777L",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Guitarra eléctrica",
+    "precio": "$ 266.000 "
+  },
+  {
+    "id": 6,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/guit_Ibanez-Gio.jpg?alt=media&token=b81af5fa-e22c-4826-8b40-db1ed897b3d0",
+    "release_date": "2021-03-03",
+    "nombre": "Ibanez Gio",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 1407,
+    "categoria": "Guitarra eléctrica",
+    "precio": "$ 212.000 "
+  },
+  {
+    "id": 7,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/guit_Ibanez-Jem-Jr.jpg?alt=media&token=f4c620e0-6546-4c34-b7c7-d224d289983f",
+    "release_date": "2021-03-03",
+    "nombre": "Ibanez Jem Jr",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 140,
+    "categoria": "Guitarra eléctrica",
+    "precio": "$ 289.000 "
+  },
+  {
+    "id": 8,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/guit_fender-jimi-hendrix--relic.jpg?alt=media&token=3d98831a-dcbe-4cb3-935b-f6b71a6e0aed",
+    "release_date": "2021-03-03",
+    "nombre": "",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 140,
+    "categoria": "Guitarra eléctrica",
+    "precio": "$ 250.000 "
+  },
+  {
+    "id": 9,
+    "poster_path": "/fender-jimi-hendrix--relic.jpg",
+    "release_date": "2021-03-03",
+    "nombre": "",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 140,
+    "categoria": "Guitarra eléctrica"
+  },
+  {
+    "id": 10,
+    "poster_path": "/fender-jimi-hendrix--relic.jpg",
+    "release_date": "2021-03-03",
+    "nombre": "",
+    "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+
+    "vote_average": 8.5,
+    "vote_count": 140,
+    "categoria": "Guitarra eléctrica"
+  }
+]
