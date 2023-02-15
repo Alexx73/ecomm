@@ -34,7 +34,7 @@ const InstumentosCard = ({ instrumento }) => {
       {/* <img src={require(`../../folder-path/${dynamic - filename}.png`)} /> */}
       <div>
         <h3>{instrumento.nombre}</h3>
-        <h5> {instrumento.precio} </h5>
+        {/* <h5> {instrumento.precio} </h5> */}
       </div>
     </li>
   );
