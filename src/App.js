@@ -7,6 +7,7 @@ import React from "react";
 import { Routes, Route, BrowserRouter, Switch } from "react-router-dom";
 import CartWidget from "./components/CartWidget";
 import Basses from "./components/Basses";
+import Info from "./components/Info";
 
 function App() {
   return (
@@ -23,7 +24,7 @@ function App() {
           />
           <Route path="/bajos" element={<Basses />} />
 
-          <Route exact path="/cart" element={<CartWidget />} />
+          <Route exact path="/info/:id" element={<Info />} />
         </Routes>
       </BrowserRouter>
     </div>

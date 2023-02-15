@@ -1,5 +1,6 @@
 import React from "react";
 import "./InstumentosCard.css";
+import { Routes, Route, BrowserRouter, Link } from "react-router-dom";
 
 const InstumentosCard = ({ instrumento }) => {
   //   const imgUrl = "../img" + instrumento.poster_path;
@@ -13,7 +14,21 @@ const InstumentosCard = ({ instrumento }) => {
 
   return (
     <li className="movieCard">
-      <img className="movieImage" src={instrumento.poster_path} />
+      {/* <Link to={`/info/${instrumento.id}`} className="btn btn-light">
+        <img className="movieImage" src={instrumento.poster_path} />
+      </Link> */}
+
+      <Link to={`/info/${instrumento.id}`}>
+        <img className="movieImage" src={instrumento.poster_path} />
+      </Link>
+
+      {/* <Link
+        to={{
+          pathname: "/register",
+          state: data_you_need_to_pass,
+        }}
+      ></Link> */}
+
       {/* <img src={require(`img${instrumento.poster_path}`)} /> */}
 
       {/* <img src={require(`../../folder-path/${dynamic - filename}.png`)} /> */}

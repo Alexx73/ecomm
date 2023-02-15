@@ -1,14 +1,15 @@
 [
   {
     "id": 1,
-    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/bass-spector-euro-5.jpg?alt=media&token=10bbadfd-8c78-4ad0-8e93-ca0e36ca4ce2",
-    "release_date": "2021-03-03",
     "nombre": "Bajo Spector Euro 5 ",
     "descripcion": "Material: Poplar  Tipo: Cuerpo solido · Color: Surf Green",
+    "precio": "$ 225.000 ",
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/crudcoder-544fb.appspot.com/o/bass-spector-euro-5.jpg?alt=media&token=10bbadfd-8c78-4ad0-8e93-ca0e36ca4ce2",
+    "release_date": "2021-03-03",
+
     "vote_average": 8.5,
     "vote_count": 1407,
-    "categoria": "Bajo eléctrico",
-    "precio": "$ 225.000 "
+    "categoria": "Bajo eléctrico"
   },
   {
     "id": 2,
