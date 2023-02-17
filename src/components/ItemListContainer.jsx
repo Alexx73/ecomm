@@ -7,9 +7,8 @@ const ItemListContainer = ({ greeting }) => {
   return (
     <main>
       <h2 id="item-list-container">{greeting}</h2>
-      <ul className="moviesGrid">
+      <ul className="instrumentos_Grid">
         {instrumentos.map((instrumento) => (
-          // <InstrumentosCard key={instrumento.id} instrumento={instrumento} />
           <InstumentosCard key={instrumento.id} instrumento={instrumento} />
         ))}
       </ul>

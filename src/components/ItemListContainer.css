@@ -3,7 +3,7 @@
   font-size: x-large;
 }
 
-.moviesGrid {
+.instrumentos_Grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, 230px);
   gap: 40px;
@@ -12,7 +12,7 @@
 }
 
 @media (max-width: 560px) {
-  .moviesGrid {
+  .instrumentos_Grid {
     grid-template-columns: 100%;
     /* gap: 40px;
     padding: 20px;

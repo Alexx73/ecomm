@@ -24,7 +24,7 @@ const NavBar2 = () => {
             {/* <a href="#">Inicio</a> */}
           </li>
           <li>
-            <a href="#">Guitarras</a>
+            <Link to={"/guitarras"}>Guitarras</Link>
           </li>
           <li>
             <Link to={"/bajos"}>bajos</Link>

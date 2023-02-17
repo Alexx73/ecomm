@@ -6,8 +6,9 @@ import React from "react";
 
 import { Routes, Route, BrowserRouter, Switch } from "react-router-dom";
 import CartWidget from "./components/CartWidget";
-import Basses from "./components/Basses";
+import Bajos from "./components/Bajos";
 import Info from "./components/Info";
+import Guitarras from "./components/Guitarras";
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
               <ItemListContainer greeting={"Bienvenidos a Guitar Store !!"} />
             }
           />
-          <Route path="/bajos" element={<Basses />} />
+          <Route path="/bajos" element={<Bajos />} />
+          <Route path="/guitarras" element={<Guitarras />} />
 
           <Route exact path="/info/:id" element={<Info />} />
         </Routes>
