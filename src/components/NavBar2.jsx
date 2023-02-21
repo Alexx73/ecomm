@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 const NavBar2 = () => {
   return (
-    <header className="header inline">
+    <header className="header inline navbar">
       {/* <Link to="/"> */}
       <div className="logo inline">
         <Link to={"/"}>
@@ -17,7 +17,7 @@ const NavBar2 = () => {
 
       {/* <h3 className="logo-desc">Guitar Store</h3> */}
 
-      <nav>
+      <nav className="">
         <ul className="nav-links">
           <li>
             <Link to={"/"}>Inicio</Link>

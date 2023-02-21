@@ -12,7 +12,7 @@ const Info = () => {
   console.log(obj.nombre);
 
   return (
-    <div>
+    <div className="container">
       <img className="img" src={obj.poster_path} alt="" />
       <h2> {obj.nombre} </h2>
       <h4> {obj.precio} </h4>

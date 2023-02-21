@@ -22,19 +22,11 @@ const InstumentosCard = ({ instrumento }) => {
         <img className="movieImage" src={instrumento.poster_path} />
       </Link>
 
-      {/* <Link
-        to={{
-          pathname: "/register",
-          state: data_you_need_to_pass,
-        }}
-      ></Link> */}
-
       {/* <img src={require(`img${instrumento.poster_path}`)} /> */}
 
       {/* <img src={require(`../../folder-path/${dynamic - filename}.png`)} /> */}
       <div>
         <h3>{instrumento.nombre}</h3>
-        {/* <h5> {instrumento.precio} </h5> */}
       </div>
     </li>
   );
